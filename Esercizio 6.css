@@ -1,0 +1,54 @@
+body {
+    background-color: antiquewhite;
+}
+
+
+h1 {
+    background-color: lightblue;
+    font-size: 100px;
+    border-radius: 8px;
+    border-color: aliceblue;
+    text-align: center;
+}
+
+.arancione{
+    background-color: orange;
+    font-size: 40px;
+    color: orange;
+    margin: 0px;
+}
+.rosso{
+    background-color: red;
+    font-size: 40px;
+    color: red;
+    margin: 0px;
+}
+.giallo{
+    background-color: yellow;
+    font-size: 40px;
+    color: yellow;
+    margin: 0px;
+}.blu{
+    background-color: blue;
+    font-size: 40px;
+    color: blue;
+    margin: 0px;
+}
+.indaca{
+    background-color: indigo;
+    font-size: 40px;
+    color: indigo;
+    margin: 0px;
+}
+.viola{
+    background-color: violet;
+    font-size: 40px;
+    color: violet;
+    margin: 0px;
+}
+.verde{
+    background-color: green;
+    font-size: 40px;
+    color: green;
+    margin: 0px;
+}
